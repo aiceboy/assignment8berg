@@ -1,2 +1,6 @@
-print('kukur')
-print("bergur was here")
+def direction (xy):
+
+
+
+direction = input("where do you want to go ?")
+    
